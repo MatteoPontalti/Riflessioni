@@ -7,3 +7,11 @@ quando vuoi collaborare con altre persone
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 non so, probabilmente perche facendolo manualmente non rischi di incappare  in errori e perchè cosi copi esattamente quelo che i serve/vuoi
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork è tra gtihub
+branch in locale nella stessa cartella
+clone tra github e git repository e tra due artelle di git
+non è preferibile nessuno in particolare
